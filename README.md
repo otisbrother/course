@@ -288,9 +288,7 @@ service/
 └── package.json
 ```
 
-## 🔥 Interview Highlights
-
-Khi đi phỏng vấn, bạn có thể trình bày:
+## 🔥Highlights
 
 1. **Microservices Architecture**: Hệ thống được thiết kế theo kiến trúc microservices với các service độc lập
 2. **Redis Cache**: Sử dụng Redis để cache data, tối ưu performance
@@ -313,10 +311,3 @@ Khi đi phỏng vấn, bạn có thể trình bày:
 - [ ] Unit & Integration tests
 - [ ] CI/CD pipeline
 
-## 📝 License
-
-MIT
-
----
-
-Built with ❤️ using NodeJS & Microservices Architecture
